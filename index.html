@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guia de Descarte de Resíduos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Guia de Descarte de Resíduos</h1>
+    <!-- Barra de pesquisa -->
+    <input type="text" id="search-input" placeholder="Pesquisar..." />
+
+    <!-- Filtros -->
+    <div class="filters">
+      <select id="category-select">
+        <option value="" disabled selected>Selecione a categoria</option>
+      </select>
+      <select id="item-select" disabled>
+        <option value="" disabled selected>Selecione o item</option>
+      </select>
+    </div>
+
+    <!-- Área de informações -->
+    <div id="info" class="info-card" style="display: none;"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+[
+    {"categoria":"Reciclável","tipo":"Papel","local":"Coleta seletiva (azul)","descricao":"Folhas, jornais, revistas.","decomposicao":"2 a 6 meses","reciclavel":true},
+    {"categoria":"Reciclável","tipo":"Plástico PET","local":"Coleta seletiva (amarelo)","descricao":"Garrafas PET, embalagens transparentes.","decomposicao":"450 anos","reciclavel":true},
+    {"categoria":"Reciclável","tipo":"Vidro","local":"Coleta seletiva (verde)","descricao":"Garrafa de vidro, potes.","decomposicao":"1.000 anos","reciclavel":true},
+    {"categoria":"Orgânico","tipo":"Resíduos de comida","local":"Compostagem","descricao":"Restos de comida, cascas.","decomposicao":"1 a 6 meses","reciclavel":false},
+    {"categoria":"Reciclável","tipo":"Metal","local":"Coleta seletiva (vermelho)","descricao":"Latas de alumínio, aço.","decomposicao":"50 a 100 anos","reciclavel":true},
+    {"categoria":"Eletrônico","tipo":"Pilhas/Baterias","local":"Posto de coleta especializado","descricao":"Pilhas alcalinas, baterias recarregáveis.","decomposicao":"100 anos","reciclavel":false},
+    {"categoria":"Hospitalar","tipo":"Perfurocortantes","local":"Caixa perfurocortante","descricao":"Agulhas, bisturis.","decomposicao":"N/A","reciclavel":false},
+    {"categoria":"Químico","tipo":"Solventes","local":"Posto químico","descricao":"Tinta, solvente de limpeza.","decomposicao":"Variável","reciclavel":false},
+    {"categoria":"Radioativo","tipo":"Lâmpadas fluorescentes","local":"Ponto de coleta radionuclídeo","descricao":"Lâmpadas tubulares.","decomposicao":"Milhares de anos","reciclavel":false},
+    {"categoria":"Agrícola","tipo":"Embalagens de agrotóxicos","local":"Posto agrícola","descricao":"Galões e frascos vazios.","decomposicao":"200 anos","reciclavel":false},
+    {"categoria":"Têxtil","tipo":"Roupas usadas","local":"Doação ou coleta têxtil","descricao":"Tecidos, roupas.","decomposicao":"1 a 5 anos","reciclavel":true},
+    {"categoria":"Orgânico","tipo":"Óleo de cozinha usado","local":"Ponto de coleta de óleo","descricao":"Óleo vegetal usado.","decomposicao":"6 meses a 1 ano","reciclavel":false}
+  ]
